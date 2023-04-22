@@ -2,6 +2,7 @@
 Converts XLSX documents into VCF (Variant Call Format) - remastered for JDK1.8  
 The code is actually [from Apache](https://svn.apache.org/repos/asf/poi/trunk/poi-examples/src/main/java/org/apache/poi/examples/xssf/eventusermodel/XLSX2CSV.java), but it didn't work as intended and was old. I rewrote some parts and wrote a function to make things easy!
 - Supports large files (thanks to XSSF)
+- Very fast conversion
 - Has "temporary file" feature
 - Remastered & easy to use!
 
