@@ -7,7 +7,7 @@ The code is actually [from Apache](https://svn.apache.org/repos/asf/poi/trunk/po
 - Remastered & easy to use!
 
 ## Usage
-- Just read `Example.java` file. There is a really easy to use converter function as example
+Just read `Example.java` file. There is a really easy to use converter function as example. 
 ![ss](https://user-images.githubusercontent.com/95364352/233811494-2cd7b5d6-1f86-4075-93cb-5a099cfff1a4.png)
 - If you want to convert XLSX file to VCF file temporarily (for fast processing etc.), there is a custom parameter `temporary` that deletes converted files after use.
 
